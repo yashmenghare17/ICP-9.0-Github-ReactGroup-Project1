@@ -1,0 +1,10 @@
+.background{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    background-size: 400% 400%;
+    height:100vh;
+    width:100vw  ;
+    background-image: linear-gradient(45deg, #080712, #2b1a47, #2b2b8a);
+    animation: bg 12s ease infinite; 
+}
